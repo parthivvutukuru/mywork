@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-cout<<"hello world from git hub"<<ednl;
-return 0;
+cout<<"hello world from git hub"<<endl;
+cout << "hello from demo of git..." << endl;
 }
